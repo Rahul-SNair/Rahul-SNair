@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rahul-SNair
-- 👀 I’m interested in neural networking and cloud technology
-- 🌱 I’m currently learning BCA , cloud computing
-- Pronoun - HE !
+- 👋 Hi, I’m @Rahul Nair
+- 👀 I’m interested in cloud technology and AI data analyst 
+- 🌱 I’m currently learning BCA 
+
 
 <!---
 Rahul-SNair/Rahul-SNair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
