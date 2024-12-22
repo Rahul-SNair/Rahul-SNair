@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Rahul Nair
-- 👀 I’m interested in cloud technology and AI data analyst 
-- 🌱 I’m currently learning BCA 
+I’m Rahul Nair , a passionate BCA student at KMM College of Arts and Science, with a keen interest in AI data analysis and AI projects. I’m always excited to explore the latest in tech news and dive into innovative AI projects.
 
 
 <!---
