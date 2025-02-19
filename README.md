@@ -1,4 +1,4 @@
-🚀 Hi there, I’m Rahul Nair! 👋
+<h3>🚀 Hi there, I’m Rahul Nair! 👋</h3>
 
 I’m a BCA student passionate about technology and innovation. Currently, I’m diving into the fascinating world of Prompt Engineering while sharpening my skills in Python & C++.
 
