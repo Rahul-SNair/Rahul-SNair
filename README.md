@@ -18,13 +18,9 @@ My goal? To build intelligent bots and dynamic features that make life easier an
 
 <h3>🔧 Tech Stack</h3>
 
-💻 Languages: 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<h3>💻 Languages:</h3><br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" />
 
-
-
-<i class="fab fa-python"></i>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 🤖 Areas of Interest: Prompt Engineering, Bot Development, Automation
 🚀 (More tools coming soon as I continue learning!)
 
